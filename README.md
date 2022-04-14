@@ -1,4 +1,4 @@
-#  Boost 1.78.0 C++ Xcode 13
+#  Boost 1.78.0 C++ Xcode
 
 This example shows complication errors on a default iOS project when including
 boost 1.78.0.
